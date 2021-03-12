@@ -37,7 +37,7 @@ a {
 	color: white;
 	transform: translate(-50%, -50%);
 	width: 400px; 
-	padding: 20px;
+	padding: 10px;
 	background: #202225;
 	box-shadow: 0 15px 25px #202225;
 	border-radius: 10px;
@@ -48,3 +48,6 @@ a {
 	margin-bottom: 20px;
 }
 
+.autor {
+	font-size: 15px;
+}
