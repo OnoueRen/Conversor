@@ -33,7 +33,7 @@ input:focus {
 	color: white;
 	transform: translate(-50%, -50%);
 	width: 400px; 
-	padding: 40px;
+	padding: 20px;
 	background: #202225;
 	box-shadow: 0 15px 25px #202225;
 	border-radius: 10px;
