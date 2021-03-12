@@ -25,6 +25,10 @@ input:focus {
 	color: black;
 }
 
+a {
+	color: white;
+}
+
 .enter_numbers {
 	box-sizing: border-box;
 	position: absolute;
